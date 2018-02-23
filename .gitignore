@@ -1,4 +1,7 @@
 data/
 bin/
+build/
+CMakeFiles/
 cmake_modules/
 lib/
+CMakeCache.txt

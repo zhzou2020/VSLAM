@@ -19,8 +19,8 @@ include_directories(${OpenCV_INCLUDE_DIRS})
 find_package(Sophus REQUIRED)
 include_directories(${Sophus_INCLUDE_DIRS})
 # G2O
-find_package(G2O REQUIRED)
-include_directories(${G2O_INCLUDE_DIRS})
+find_package(g2o REQUIRED)
+include_directories(${g2o_INCLUDE_DIRS})
 
 set(THIRD_PARTY_LIBS 
     ${OpenCV_LIBS}
