@@ -5,4 +5,5 @@ CMakeFiles/
 cmake_modules/
 lib/
 CMakeCache.txt
+cmake_install.cmake
 Makefile
